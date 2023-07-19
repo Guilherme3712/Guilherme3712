@@ -20,8 +20,4 @@ Olá Mundo! Eu sou o Guilherme
 
 ##
 
-<div>
-   
-</div>
-
- ![Snake animation](https://github.com/Guilherme3712/Guilherme3712/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
