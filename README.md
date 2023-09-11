@@ -1,15 +1,17 @@
-<H1>Olá Mundo! Prazer Guilherme</H1>
+<h1>Olá Mundo! Prazer Guilherme</h1>
 
 - 🔭 Estagiário IBM the BIg Blue 
 - 🌱 Estudando PHP(Laravel), Python, SQL, React Native
 - 📫 Contato: guilhermealves3712@gmail.com
 
+
+<h2>Git Hub Stats</h2>
 <div>
   <a href="https://beacons.ai/Guilherme3712">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme3712&show_icons=true&bg_color=00000000"/>
 </div>
 
-##
+<h2>Linguagens e Frameworks:</h2>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
