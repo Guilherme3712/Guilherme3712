@@ -1,7 +1,7 @@
 Olá Mundo! Prazer Guilherme
 
-- 🔭 Atualmente em busca de um Estágio
-- 🌱 Estudando PHP, Laravel, SQL, HTML/CSS, React Native
+- 🔭 Estagiário IBM the BIg Blue 
+- 🌱 Estudando PHP(Laravel), Python, SQL, React Native
 - 📫 Contato: guilhermealves3712@gmail.com
 
 <div>
