@@ -32,8 +32,4 @@
 
 <h2>Commits</h2>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guilherme3712/Guilherme3712/output/grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guilherme3712/Guilherme3712/output/grid-snake-light.svg" />
-  <img alt="GitHub contribution animation" src="https://raw.githubusercontent.com/Guilherme3712/Guilherme3712/output/grid-snake.svg" />
-</picture>
+![snake gif](https://github.com/Guilherme3712/Guilherme3712/blob/output/github-contribution-grid-snake.svg)
