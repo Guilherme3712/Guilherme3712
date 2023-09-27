@@ -1,7 +1,7 @@
 <h1>Olá Mundo! Prazer Guilherme</h1>
 
 - 🔭 Estagiário IBM the BIg Blue 
-- 🌱 Estudando PHP(Laravel), SQL, React, React Native, Java, JavaScript
+- 🌱 Estudando: PHP(Laravel) | SQL | React | React Native | Java | JavaScript | Node
 - 📫 Contato: guilhermealves3712@gmail.com
 
 
