@@ -26,4 +26,6 @@
 
 ![snake gif](https://github.com/Guilherme3712/Guilherme3712/blob/output/github-contribution-grid-snake.gif)
 
+
+
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=Guilherme3712&repo=Guilherme3712&theme=react)](https://github.com/Guilherme3712/Guilherme3712)
