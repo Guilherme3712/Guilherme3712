@@ -1,6 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text)](https://git.io/typing-svg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Guilherme3712&label=Profile%20views&color=0e75b6&style=flat" alt="Guilherme3712" /></p>
+  
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=+Olá+Mundo!+Prazer+Guilherme!;&center=true&size=26">
+  </a>
+</h1>
 
-<h1>Olá Mundo! Prazer Guilherme</h1>
+<br>
 
 - 🔭 Estagiário IBM the BIg Blue 
 - 🌱 Estudando: PHP(Laravel) | SQL | React | React Native | Java | JavaScript | Node
@@ -26,8 +32,8 @@
 
 <h2>Commits</h2>
 
-![snake gif](https://github.com/Guilherme3712/Guilherme3712/blob/output/github-contribution-grid-snake.gif)
-
-
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Guilherme3712&repo=Guilherme3712&theme=react)](https://github.com/Guilherme3712/Guilherme3712)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guilherme3712/Guilherme3712/output/grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guilherme3712/Guilherme3712/output/grid-snake-light.svg" />
+  <img alt="GitHub contribution animation" src="https://raw.githubusercontent.com/Guilherme3712/Guilherme3712/output/grid-snake.svg" />
+</picture>
