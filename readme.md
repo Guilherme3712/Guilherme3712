@@ -30,7 +30,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme3712&show_icons=true&bg_color=00000000"/>
 </div>
 
-<h2>Linguagens e Frameworks:</h2>
+<h2>Linguagens e Frameworks</h2>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
