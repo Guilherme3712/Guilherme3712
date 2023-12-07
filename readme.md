@@ -8,7 +8,7 @@
 
 <br>
 
-- 🔭 Estagiário IBM - The Big Blue 
+- 🔭 The Big Blue 
 - 🌱 Estudando: PHP(Laravel) | SQL | React | React Native | Java | JavaScript | Node
 - 📫 Contato: guilhermealves3712@gmail.com
 
