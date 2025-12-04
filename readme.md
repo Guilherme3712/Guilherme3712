@@ -8,8 +8,9 @@
 
 <br>
 
-- 🔭 The Big Blue 
-- 🌱 Estudando: PHP(Laravel) | SQL | React | React Native | Java | JavaScript | Node | Angular
+- 🔭 The Big Blue
+- Application Developer at IBM
+- 💻 : Angular | JAVA | ReactJS | PHP(Laravel) | MySQL | React Native
 - 📫 Contato: guilhermealves3712@gmail.com
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whiteue)](https://www.linkedin.com/in/guilherme-alves-1402i/)
